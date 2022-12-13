@@ -50,7 +50,7 @@ npm i inquirer@8.24
 
 ## Demo
 
-
+[Untitled_ Dec 13, 2022 12_25 AM.webm](https://user-images.githubusercontent.com/108310424/207265721-6e67b3a8-85bf-42e8-94e8-68a7ed1e40fd.webm)
 
 ## Challenges
 This project was challenging and requried a lot of different components compared to previous projects. Since we were working with JEST unit tests, that added an additional level of syntax I needed to research and learn. 
