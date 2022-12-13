@@ -1,9 +1,5 @@
 # Team/Employee Generator Challenge
 
-
-![JS](https://img.shields.io/badge/JavaScript-59%25-yellow)
-![CSS](https://img.shields.io/badge/CSS-10%25-blue) 
-
 Team Generator that uses Inquirer and Node.js to store team data and render them on a webpage. Jest also allows for unit testing. 
 
 ## Overview
