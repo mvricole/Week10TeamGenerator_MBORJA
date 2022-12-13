@@ -1,0 +1,38 @@
+/* Header Styling - "Meet The Team!" */
+.team-heading {
+  background-color: #987ec9;
+  color: #ffffff;
+}
+
+/* Lower Area Styling */
+.team-area {
+  max-width: 1000px;
+  margin: 10px auto;
+  flex-wrap: wrap;
+}
+
+/* When user inputs an employee, their information will render on this employee card. */
+.employee-card {
+  margin: 15px;
+  max-width: 300px;
+  width: 80%;
+  min-height: 300px;
+  background-color: #f1ac2bb2;
+  color: white;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f6f7f8;
+}
+
+.list-group-item {
+  color: #000000;
+  text-decoration: none;
+}
