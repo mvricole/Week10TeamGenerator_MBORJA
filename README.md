@@ -40,7 +40,7 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Before You Start
-Before you begin using the application, please make sure you have a compatible version of Inquirer installed. This ensures the prompts and tests work as needed. 
+Before you begin using the application, please make sure you have a compatible version of Inquirer installed. This ensures the prompts work as needed. 
 
 In your terminal, please input:
 
@@ -57,5 +57,10 @@ npm i inquirer@8.24
 
 
 ## Challenges
+This project was challenging and requried a lot of different components compared to previous projects. Since we were working with JEST unit tests, that added an additional level of syntax I needed to research and learn. 
+
+I encountered a few issues when initially trying to get the cards to render the correct data. Presently, I am working on developing how to get the webpage to autopopulate after submitting employee information. I have to open it from Visual Studio Code or use LiveServer to ensure it is working. It is still a work in progress!
 
 ## Contributions 
+
+Marian Nicole Borja 2022
