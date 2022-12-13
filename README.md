@@ -1,7 +1,9 @@
 # Team/Employee Generator Challenge
-Team Generator that uses Inquirer and Node.js to store team data and render them on a webpage. 
+Team Generator that uses Inquirer and Node.js to store team data and render them on a webpage. Jest also allows for unit testing. 
 
 ## Overview
+As an employer, it may be beneficial to find ways to efficiently put together my team's data. Accessing a team's contact information makes it easier to coordinate communication throughout a project. This application uses Inquirer and Node.JS to create an employee/project team summary that includes their ID, email, phone number and gitHub username.
+
 
 ## User Story
 
@@ -33,12 +35,21 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Before You Start
+Before you begin using the application, please make sure you have a compatible version of Inquirer installed. This ensures the prompts and tests work as needed. 
+
+In your terminal, please input:
+
+```
+npm i inquirer@8.24
+```
 
 ## Sample Image
 
 ![image](https://user-images.githubusercontent.com/108310424/207259930-3bb2df12-90c7-4616-95ca-f14e13f1c710.png)
 
 ## Demo
+
+
 
 ## Challenges
 
